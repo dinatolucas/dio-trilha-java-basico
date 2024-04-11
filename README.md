@@ -1,5 +1,3 @@
-# dio-trilha-java-basico
-
 # Curso de Java
 
 Este repositório contém os materiais e exercícios do curso de Java - Trilha Básica oferecido pela Digital Innovation One.
